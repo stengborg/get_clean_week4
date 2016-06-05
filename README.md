@@ -1,5 +1,8 @@
+#See the comments, i have tried to make them as clear as possible and to describe every step i do.
+
 library(dplyr)
 library(data.table)
+
 
 #Reading the data
 test <- read.table("./test/X_test.txt")
